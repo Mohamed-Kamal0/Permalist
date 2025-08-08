@@ -14,8 +14,7 @@ A permanent to-do list application with MongoDB for persistent storage.
 - EJS
 - HTML5, CSS3
 
-## 📸 Screenshot
-![Permalist Screenshot](screenshot.png)
+
 
 ## 📂 How to Run
 1. Clone the repository.
