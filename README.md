@@ -23,5 +23,4 @@ A permanent to-do list application with MongoDB for persistent storage.
 3. Start MongoDB locally or connect to MongoDB Atlas.
 4. Run `node app.js` or `nodemon app.js`.
 
-## 📜 License
-This project is open source under the MIT License.
+
