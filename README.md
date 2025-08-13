@@ -10,7 +10,7 @@ A permanent to-do list application with MongoDB for persistent storage.
 ## 🛠️ Technologies Used
 - Node.js
 - Express.js
-- MongoDB & Mongoose
+- PostgreSQL
 - EJS
 - HTML5, CSS3
 
