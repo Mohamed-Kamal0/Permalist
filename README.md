@@ -4,7 +4,7 @@ A permanent to-do list application with MongoDB for persistent storage.
 
 ## 🚀 Features
 - Add and delete tasks.
-- MongoDB database keeps tasks even after restarting the app.
+- PostgreSQL database keeps tasks even after restarting the app.
 - Minimalistic design.
 
 ## 🛠️ Technologies Used
